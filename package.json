@@ -1,0 +1,27 @@
+{
+  "name": "structured-workflow-middleware",
+  "version": "1.0.0",
+  "description": "Extensible self-documenting structured workflow middleware for Node.js microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkeytech/structured-workflow-middleware.git"
+  },
+  "keywords": [
+    "extensible",
+    "self-documenting",
+    "structured",
+    "workflow",
+    "middleware",
+    "microserice"
+  ],
+  "author": "Ian Watson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inkeytech/structured-workflow-middleware/issues"
+  },
+  "homepage": "https://github.com/inkeytech/structured-workflow-middleware#readme"
+}
